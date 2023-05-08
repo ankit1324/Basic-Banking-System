@@ -36,5 +36,5 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 ![App Screenshot](
 ## Screenshots
 
-![App Screenshot](assets/screenshot/Screenshot (54).png)
+![App Screenshot](/assets/screenshot/Screenshot (54).png)
 
