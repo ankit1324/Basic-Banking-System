@@ -107,30 +107,3 @@ body {
   text-decoration: none;
 }
 /* get-started-buttons css end here*/
-
-/* footer css starts here */
-footer {
-  background-color: #ffffff;
-}
-footer:hover {
-  background-color: #f5f3f3;
-}
-
-.social-icons li {
-  list-style: none;
-  display: inline;
-  padding: 0.5rem;
-}
-
-.github {
-  color: #c0b9b9;
-}
-
-.linkedin {
-  color: #0400ffe7;
-}
-
-.google {
-  color: #d44638;
-}
-/* footer css ends here  */
