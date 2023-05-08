@@ -31,10 +31,5 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wtfAnkit)
 
 
-## Screenshots
 
-![App Screenshot](
-## Screenshots
-
-![App Screenshot](/assets/screenshot/Screenshot (54).png)
 
